@@ -8,8 +8,7 @@ public class ListNode
 	
 	// constructor
 	
-	public ListNode (Object initValue,
-					 ListNode initNext)
+	public ListNode (Object initValue, ListNode initNext)
 	// pre-condition: initValue is a valid Object and initNext is valid ListNode.
 	// post-condition: value equals initValue and next equals initNext.
 	{
